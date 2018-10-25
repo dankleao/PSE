@@ -1,9 +1,11 @@
+#INSTRUÇÕES
+
 Colaboradores
 
 Todos os colaboradores adicionados ao projeto tem permissão para criação de branches, issues, pull requests...
 É incentivado a colaboração entre todas as partes bem como a comunicação entre elas.
 
-Branches
+## Branches
 
 O branch principal do projeto (master) está bloqueado para escrita direta e todas as modificações a serem acrescentadas
 devem ser feitas por meio de pull request. O pull request é uma excelente forma de gerenciar grandes projetos pois permite
@@ -15,7 +17,7 @@ secundário isto permite que pull requests não aceitos e conflitos de merge sej
 Durante a criação de um pull request, faça referência a qual issue ele pertence e comente brevente a respeito das funcionalidades
 a serem acrescidas, isso facilita o rastreamento de qual feature o 'PR' se trata.
 
-Issues
+## Issues
 
 Issues são um excelente canal de comunicação: eles servem para questionar, informar bugs, solicitar novos features e etc.
 No momento o projeto possui 24 issues e todos eles dizem respeito aos recursos que serão acrescentados ao projeto.
@@ -33,7 +35,7 @@ obrigatory: recurso que deve ser implementado no sistema
 maybe: recurso que pode ser implementado no sistema
 Além disso, cada issue pode ser atribuído a um colaborador por meio do 'Assignee', façam uso disso.
 
-Comunicação
+## Comunicação
 
 Todo o sistema de comentários, pull requests e issues servem como forma de aumentar a interação entre colaboradores
 e definir bem os objetivos e o caminho que o projeto deve seguir. Usem a abusem disso, e, quando necessário,
